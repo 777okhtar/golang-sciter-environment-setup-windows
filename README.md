@@ -34,6 +34,8 @@ Steps to setup environment for GOLANG with SCITER on Windows
 		* I installed it in 'C:\TDM-GCC-64\bin', Ignore if it is already present
 
 4. Download sciter-SDK and add the sciter binary to your project folder according to your platform:
+	*#### FIXED ####*
+	* Download .dll from there https://github.com/c-smile/sciter-js-sdk/blob/c27c5679d79ee94db8730ce06a7cda2bf5d3daba/bin/windows/x64/sciter.dll
 	
 	* Official Website:  https://sciter.com/download/
 	
